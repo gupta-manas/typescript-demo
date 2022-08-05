@@ -35,7 +35,7 @@ class Demo implements testInterface2{
 	}
 	
 	greeter(person: string): string{
-		return "Hello , " + person;
+		return "Hello," + person;
 	}
 }
 
